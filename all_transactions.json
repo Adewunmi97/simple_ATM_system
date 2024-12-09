@@ -1,0 +1,1 @@
+[{"acc_no":10030,"acc_history":[{"type":"deposit","amount":3000.0,"date":"2024-11-27 14:19:07 +0100","balance":3000.0},{"type":"withdrawal","amount":1000.0,"date":"2024-11-27 14:19:20 +0100","balance":2000.0}]},{"acc_no":12345678,"acc_history":[]}]
